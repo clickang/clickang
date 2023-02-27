@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=0:A9E2C5,100:1A9A91&section=header&height=250&text=안녕하녕~&desc=Hello%20Hi~&animation=fadeIn&fontSize=50&fontColor=c8ee9d)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=0:A9E2C5,100:1A9A91&section=header&height=250&text=안녕햐~&desc=Hello%20Hi~&animation=fadeIn&fontSize=50&fontColor=eeeeee)
 ### Hi there 👋
 
 <!--
