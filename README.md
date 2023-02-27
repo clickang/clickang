@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&section=header&height=250&text=미뇽~)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&section=header&height=250&text=안녕하녕)
 ### Hi there 👋
 
 <!--
