@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&section=header&height=300)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&section=header&height=250)
 ### Hi there 👋
 
 <!--
