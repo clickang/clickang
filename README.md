@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=0:A9E2C5,100:1A9A91&section=header&height=250&text=%20안뇽~%20&animation=fadeIn&fontSize=60&fontColor=eeeeee&textBg=true&desc=Clickang's%5Git&decsSize=30&descAlign=70)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=0:A9E2C5,100:1A9A91&section=header&height=250&text=%20안뇽~%20&animation=fadeIn&fontSize=60&fontColor=eeeeee&textBg=true&desc=Clickang's%5GGit&decsSize=30&descAlign=10&descAlignY=10)
 ### Hi there 👋
 
 <!--
