@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=0:A9E2C5,100:1A9A91&section=header&height=250&text=%20안뇽~%20&animation=fadeIn&fontSize=50&fontColor=eeeeee&textBg=false&desc=Clickang's%20Git&decsSize=40&descAlign=55&descAlignY=65)
-### Hi there 👋
 
 <!--
 **clickang/clickang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
