@@ -4,6 +4,11 @@
 
 <img src="https://img.shields.io/badge/%27Lucky%27-006600?style=for-the-badge&logo=4chan&logoColor=black%22%3E">
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clickang)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clickang&layout=compact)
+
+
 <!--
 **clickang/clickang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
