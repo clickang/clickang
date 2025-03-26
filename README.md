@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=0:A9E2C5,100:1A9A91&section=header&height=175&text=%20안뇽~%20&animation=fadeIn&fontSize=50&fontColor=eeeeee&textBg=false&desc=Clickang's%20Git&decsSize=40&descAlign=55&descAlignY=68)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:A9E2C5,100:1A9A91&section=header&height=245&text=%20Hi%20Guys~&animation=fadeIn&fontSize=50&fontColor=eeeeee&textBg=false&&fontAlignY=40)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fclickang%2Fhit-counter&count_bg=%233DC8B9&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fclickang%2Fhit-counter&count_bg=%233DC8B9&title_bg=%23555555&icon=&icon_color=%gradient&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
 
 <img src="https://img.shields.io/badge/%27Lucky%27-006600?style=for-the-badge&logo=4chan&logoColor=black%22%3E">
 
